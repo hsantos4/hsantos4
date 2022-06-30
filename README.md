@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Hector
-- 👀 I’m interested in solving real world problems with code.
-- 🌱 I’m currently building websites for insurance agencies, family/friends and local businesses in my area.
-- 💞️ I’m looking to collaborate on anything that will help me better my JavaScript skills.
+- 👀 I’m interested in building websites that help businesses reach the online audience.
+- 🌱 I currently build websites for family/friends and local businesses in my area.
+- 🐔 Fun fact, I worked at a Water Fowl Rescue taking care of a different animals.
 
 <!---
 hsantos4/hsantos4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
