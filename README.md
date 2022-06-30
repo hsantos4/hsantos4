@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hector
 - 👀 I’m interested in Web development, both the Front-end and Back-end.
-- 🌱 I’m currently building websites for insurance agencies.
+- 🌱 I’m currently building websites for insurance agencies, family/friends and local businesses in my area.
 - 💞️ I’m looking to collaborate on anything that will help me better my JavaScript skills.
 
 <!---
