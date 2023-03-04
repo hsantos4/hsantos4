@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Hector
-- 👀 I’m interested in building websites that help businesses reach the online audience.
-- 🌱 I currently build websites for family/friends and local businesses in my area.
-- 🐔 Fun fact, I worked at a Water Fowl Rescue taking care of a ton of different animals.
+- 👀 I’m interested in front-end and back-end development, but mostly backend.
+- 🌱 I currently work for a digital marketing agency as an SEO specialsit.
+- 🐔 Fun fact, I worked at an emergency room.
 
 <!---
 hsantos4/hsantos4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
