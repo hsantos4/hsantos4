@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hector
-- 👀 I’m interested in front-end and back-end development, but mostly backend.
-- 🌱 I currently work for a digital marketing agency as an SEO specialsit.
+- 👀 I’m interested in front-end and back-end development.
+- 🌱 I currently work for a digital marketing agency as an online marketing specialist.
 - 🐔 Fun fact, I worked at an emergency room.
 
 <!---
